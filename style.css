@@ -1,0 +1,43 @@
+html{
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 18px;
+    margin:0;
+}
+
+body{
+    margin: 0 auto;
+    /* background: url('img/bg.svg') center/cover no-repeat; */
+    
+    background-color: #ff7700;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900'%3E%3Cpolygon fill='%23c10202' points='957 450 539 900 1396 900'/%3E%3Cpolygon fill='%23bc5353' points='957 450 872.9 900 1396 900'/%3E%3Cpolygon fill='%23d5002b' points='-60 900 398 662 816 900'/%3E%3Cpolygon fill='%237b031a' points='337 900 398 662 816 900'/%3E%3Cpolygon fill='%238a0533' points='1203 546 1552 900 876 900'/%3E%3Cpolygon fill='%238b113b' points='1203 546 1552 900 1162 900'/%3E%3Cpolygon fill='%23d0006b' points='641 695 886 900 367 900'/%3E%3Cpolygon fill='%23af0d5f' points='587 900 641 695 886 900'/%3E%3Cpolygon fill='%23c7389e' points='1710 900 1401 632 1096 900'/%3E%3Cpolygon fill='%23741459' points='1710 900 1401 632 1365 900'/%3E%3Cpolygon fill='%23920392' points='1210 900 971 687 725 900'/%3E%3Cpolygon fill='%238c098c' points='943 900 1210 900 971 687'/%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    font-size: 3rem;
+}
+p, ul{
+    font-size: 2rem;
+}
+
+.silvestr{
+    position: absolute;
+    right:10vw;
+    bottom: 10vh;
+    width: 40vw;
+    height: auto;
+    max-width: 350px;
+
+    
+    
+}
+.silvestr img{
+    
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+.text{
+    padding: 2rem;
+}
+
